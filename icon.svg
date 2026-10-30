@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" shape-rendering="crispEdges">
+  <rect width="512" height="512" fill="#05070d"/>
+  <rect x="16" y="16" width="480" height="480" fill="none" stroke="#59168b" stroke-width="16"/>
+  <rect x="40" y="40" width="432" height="432" fill="none" stroke="#33d4ff" stroke-width="8"/>
+  <!-- pixel play triangle -->
+  <g fill="#39ff6a">
+    <rect x="180" y="140" width="48" height="48"/>
+    <rect x="228" y="164" width="48" height="72"/>
+    <rect x="276" y="212" width="48" height="64"/>
+    <rect x="276" y="276" width="48" height="24"/>
+    <rect x="228" y="300" width="48" height="48"/>
+    <rect x="180" y="324" width="48" height="48"/>
+  </g>
+  <!-- scanlines -->
+  <g fill="#000000" opacity="0.35">
+    <rect x="0" y="36" width="512" height="4"/><rect x="0" y="108" width="512" height="4"/>
+    <rect x="0" y="180" width="512" height="4"/><rect x="0" y="252" width="512" height="4"/>
+    <rect x="0" y="324" width="512" height="4"/><rect x="0" y="396" width="512" height="4"/>
+    <rect x="0" y="468" width="512" height="4"/>
+  </g>
+</svg>
